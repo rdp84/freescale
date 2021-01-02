@@ -1,0 +1,14 @@
+# CW files and directories
+
+.metadata/
+*.cproject*
+*.cwGeneratedFileSetLog*
+*.project*
+*.settings*
+*/Project_Headers/*
+*/Project_Settings/*
+*/RAM/*
+ReferencedRSESystems.xml
+*/RemoteLaunch/*
+*/RemoteSystemsTempFiles/*
+RemoteLaunch/
